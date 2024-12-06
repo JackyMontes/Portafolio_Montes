@@ -7,7 +7,7 @@ const urlsToCache = [
   './js/main.js',
   './img/favicon.ico',
   './img/CV.PNG',
-  './img/CV1.png',
+  './img/CV.JPEG',
   './manifest.json', // Asegúrate de que este archivo esté en la raíz de tu proyecto
   './js/lib/owlcarousel/assets/owl.carousel.min.css', // Si usas esta librería
   './js/lib/lightbox/css/lightbox.min.css', // Si usas esta librería
